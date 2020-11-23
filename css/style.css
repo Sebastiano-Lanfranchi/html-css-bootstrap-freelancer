@@ -36,7 +36,7 @@ h2{
   margin-top: 50px;
 }
 
-.container{
+.margin{
   margin-top: 50px;
 }
 
@@ -49,4 +49,14 @@ h2{
 
 .b-form{
   float: left;
+}
+
+.blue{
+  background: #3A546D;
+}
+.bianco{
+  color: white;
+}
+.scuro{
+  background-color: #2C3E50
 }
