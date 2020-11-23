@@ -37,5 +37,16 @@ h2{
 }
 
 .container{
-  margin-top: 50px; 
+  margin-top: 50px;
+}
+
+.form{
+  border: 1px solid black;
+  text-align: left;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.b-form{
+  float: left;
 }
