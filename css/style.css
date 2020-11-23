@@ -1,0 +1,41 @@
+.verdeacqua{
+  background-color: #1ABC9C;
+  text-align: center;
+}
+
+.testata-img{
+ height: 300px;
+}
+
+h1{
+  color: #ccc;
+}
+
+h2{
+  color: #ccc;
+}
+
+.center{
+  text-align: center;
+}
+
+.imgcenter{
+  height: 200px;
+  border-radius: 10px;
+}
+
+.secondo{
+  margin-top: 20px;
+}
+
+.bi-star-fill{
+  display: inline-block;
+}
+
+.row .verdeacqua{
+  margin-top: 50px;
+}
+
+.container{
+  margin-top: 50px; 
+}
